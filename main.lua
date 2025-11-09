@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("hi ribbit")
+game.Players.LocalPlayer:Kick("bro thought he already had access")
