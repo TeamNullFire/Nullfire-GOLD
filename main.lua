@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("Dude can't you fucking wait? 😭")
+game.Players.LocalPlayer:Kick("hi ribbit")
