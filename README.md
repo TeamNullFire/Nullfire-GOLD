@@ -1,5 +1,12 @@
-NullFire <font color='#deca1a'>GOLD</font> | The true <font color='#deca1a'>premium</font> version of NullFire.
+# Nullfire **GOLD**
 
-Made by <font color='#aaaaff'>Shrimper</font> and <font color='#f678ff'>Seikoso</font>
+<img width="50" height="50" alt="without_background" src="https://github.com/user-attachments/assets/de105abc-ba1a-4c6a-96cc-a12001ffbc4a" /> _Nullfire **GOLD**_
 
-NullFire <font color='#deca1a'>GOLD</font> is a better rewritten version of the normal NullFire (NULLFIRE <font color='#deca1a'>GOLD</font> IS NOT <font color='#5eff8c'>NULLFIRE+</font>)
+By buying this, you'll have access to a better optimized, improved version with more features of Nullfire!
+
+This is a COMPLETE rewrite of the original Nullfire, which means a lot of things will work differently here, improving the performance
+
+and also, by buying this, you also help us make faster updates as you give us 7 euros! Which we use for luraph tokens which we used to update Nullfire!
+
+Price:
+7€ / ??? ⏣
